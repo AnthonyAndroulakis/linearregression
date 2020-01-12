@@ -1,6 +1,6 @@
 import random
-import matplotlib.pyplot as plt
-import numpy as np
+import matplotlib.pyplot as plt #for plotting
+import numpy as np #for plotting
 
 learningrate = 20
 epochs = 1000000
