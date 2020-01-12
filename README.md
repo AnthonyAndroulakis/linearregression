@@ -5,7 +5,7 @@ data set used: https://data.world/anujonthemove/auto-insurance-in-sweden/
 1st column = x     
 2nd column = y    
 
-linear regression machine-learning explanation here: https://www.youtube.com/watch?v=wYPUhge9w5c     
+linear regression (machine-learning explanation) here: https://www.youtube.com/watch?v=wYPUhge9w5c     
 
 #### warning: This program is extremely slow.
 
