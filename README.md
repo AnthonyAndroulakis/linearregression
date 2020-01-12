@@ -1,2 +1,16 @@
 # linearregression
 my first machine learning program
+
+data set used: https://data.world/anujonthemove/auto-insurance-in-sweden/     
+1st column = x     
+2nd column = y    
+
+linear regression machine-learning explanation here: https://www.youtube.com/watch?v=wYPUhge9w5c     
+
+#### warning: This program is extremely slow.
+
+You can set the learning rate and the number of steps inside the program.     
+
+# example results:
+![]()
+![]()
