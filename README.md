@@ -1,5 +1,5 @@
 # linearregression
-my first machine learning program
+my first machine learning program (0 use case, just made this to better understand machine learning)
 
 data set used: https://data.world/anujonthemove/auto-insurance-in-sweden/     
 1st column = x     
