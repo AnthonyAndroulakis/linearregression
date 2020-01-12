@@ -9,7 +9,7 @@ linear regression (machine-learning explanation) here: https://www.youtube.com/w
 
 #### warning: This program is extremely slow.
 
-You can set the learning rate and the number of steps inside the program.     
+You can set the learning rate (interval to change by) and the epochs (number of steps) inside the program.     
 
 # example results:
 ![example 1](https://github.com/AnthonyAndroulakis/linearregression/blob/master/example1.png)
