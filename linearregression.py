@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 learningrate = 20
-steps = 1000000
+epochs = 1000000
 csv_file = 'auto_insurance_sweden.csv'
 
 x=[]
@@ -26,7 +26,7 @@ else:
     slope = random.randrange(int(min(y)/min(x)),int(max(y)/max(x))) #pick a decent slope range
 yint = random.randrange(int(min(y)),int(max(y))) #pick a decent y intercept range
 
-for i in range(steps):
+for i in range(epochs):
     #index = random.randrange(0,len(x)) #pick random index
     for index in range(len(x)):
         linevalue = slope*x[index]+yint
