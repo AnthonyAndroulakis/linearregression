@@ -11,5 +11,6 @@ linear regression (machine-learning explanation) here: https://www.youtube.com/w
 
 You can set the learning rate (interval to change by) and the epochs (number of steps) inside the program.     
 
+### the line in the graph below looks extra long because I misused numpy.linspace but didn't bother to fix it
 # example results:
 ![example 1](https://github.com/AnthonyAndroulakis/linearregression/blob/master/example1.png)
