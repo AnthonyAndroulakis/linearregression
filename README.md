@@ -13,4 +13,3 @@ You can set the learning rate (interval to change by) and the epochs (number of 
 
 # example results:
 ![example 1](https://github.com/AnthonyAndroulakis/linearregression/blob/master/example1.png)
-![example 2](https://github.com/AnthonyAndroulakis/linearregression/blob/master/example2.png)
