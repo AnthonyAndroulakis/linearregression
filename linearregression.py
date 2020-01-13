@@ -41,7 +41,7 @@ for i in range(epochs):
         elif ypt < linevalue and xpt > 0:
             slope = slope-learningrate
             yint = yint-learningrate
-        elif ypt > linevalue and xpt > 0:
+        elif ypt < linevalue and xpt < 0:
             lope = slope+learningrate
             yint = yint-learningrate
 
